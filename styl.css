@@ -193,14 +193,6 @@ table tr td {
     background-color: #6ed926!important;
 }
 
-.container-table:hover div {
-    /* box-shadow: 0px 0px 5px #544325; */
-    /* background-color: #F7ECDE!important; */
-    animation-name: rgb;
-    animation-duration: 5s;
-    animation-iteration-count: infinite;
-}
-
 @keyframes rgb {
     25%{
         background-color: #ccffdd;
