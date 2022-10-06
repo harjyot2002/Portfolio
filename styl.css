@@ -40,6 +40,10 @@ html {
     color:#AC7088 !important;
 }
 
+.links {
+    border-radius: 5px;
+}
+
 .links .fa-instagram:hover {
     color:#f60690;
 }
@@ -48,8 +52,12 @@ html {
     color:#212529;
 }
 
-.links .fa-facebook-f:hover {
-    color:#1773ea;
+.jokeWala {
+    max-width: 60vw;
+}
+
+.links .fa-snapchat:hover {
+    color:#F5D450;
 }
 
 .nav-link {
